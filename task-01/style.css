@@ -1,7 +1,7 @@
 .section-welkome {
     width: 100%;
     height: 946px;
-    background-image: url(./img/background.png);
+    background-image: url(./image/background.png);
     background-size: cover;
     background-repeat: no-repeat;
     color: var(--light-color);
@@ -298,4 +298,4 @@
         margin-top: 25px;
         padding: 18px 0px 17px 0px;
     }
-}
+}   
